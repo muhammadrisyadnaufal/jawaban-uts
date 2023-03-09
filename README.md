@@ -3,9 +3,9 @@
     b. durasi audio adalah 4 detik <br />
     c. sample rate adalah 44100 Hz <br />
     d. Tiga frekuensi puncak terbesar adalah: <br />
-        ( &nbsp; )600.00 Hz <br />
-        ( &nbsp; )100.00 Hz <br />
-        ( &nbsp; )2000.00 Hz <br />
+        &nbsp;600.00 Hz <br />
+        &nbsp;100.00 Hz <br />
+        &nbsp;2000.00 Hz <br />
     e. Tertera pada file ipnyb <br />
     
     
