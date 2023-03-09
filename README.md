@@ -1,5 +1,5 @@
 # jawaban-uts
-3.  a. besar file 345 KB <br />
+3.  a. besar file 352844 bytes <br />
     b. durasi audio adalah 4 detik <br />
     c. sample rate adalah 44100 Hz <br />
     d. Tiga frekuensi puncak terbesar adalah: <br />
